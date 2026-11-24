@@ -1,12 +1,22 @@
-# Romain Abdel-Aal
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Romain Abdel-Aal — Applied AI and Systems Engineering" width="100%">
+</p>
 
-**Senior AI Consultant · AI Solutions Architect · Forward Deployed Engineer**
+<h3 align="center">Senior AI Consultant · AI Solutions Architect · Forward Deployed Engineer</h3>
 
-Paris, France · Open to consulting, freelance and international remote opportunities
+<p align="center">Paris, France · Consulting · Freelance · International remote</p>
+
+<p align="center">
+  <a href="https://github.com/bahira?tab=repositories">Projects</a> ·
+  <a href="#03--technical-expertise">Technical expertise</a> ·
+  <a href="#05--how-i-can-contribute">Work with me</a>
+</p>
+
+---
 
 I build AI-enabled software that connects models to real data, APIs and business workflows. My focus is practical delivery: technical discovery, integration, prototyping, evaluation and performance engineering.
 
-## Featured engineering projects
+## 01 / Featured engineering projects
 
 | Project | What it demonstrates | Explore the evidence |
 | --- | --- | --- |
@@ -23,13 +33,13 @@ I build AI-enabled software that connects models to real data, APIs and business
 
 These are project-documented commands, not a claim that all tests were rerun today. Research results are workload-specific; no universal acceleration or trading profitability is claimed.
 
-## Additional research
+## 02 / Additional research
 
 - [FrankenSpear](https://github.com/bahira/frankenspear) — experimental neuro-symbolic architecture combining WASM kernels and small-model routing.
 - [Spear-Fable](https://github.com/bahira/spear-fable) — lightweight agent architecture and compact policy experiments.
 - [BitCompute](https://github.com/bahira/bitcompute) — peer-to-peer distributed computing experiments.
 
-## Technical expertise
+## 03 / Technical expertise
 
 | Domain | Focus |
 | --- | --- |
@@ -39,7 +49,7 @@ These are project-documented commands, not a claim that all tests were rerun tod
 | Performance and research | SIMD, WebAssembly, symbolic regression, numerical validation, reproducible benchmarks |
 | Financial technology | Market data, order-book replay, quantitative research, simulation |
 
-## Current engineering focus
+## 04 / Current engineering focus
 
 - Enterprise AI gateways: tool interfaces, data integration, access control and auditability.
 - Multi-agent evaluation: deterministic environments and comparative LLM experiments.
@@ -47,7 +57,7 @@ These are project-documented commands, not a claim that all tests were rerun tod
 
 These are ongoing development areas, not claims of production deployment.
 
-## How I can contribute
+## 05 / How I can contribute
 
 - Translate business requirements into working AI prototypes and integration plans.
 - Connect LLMs to enterprise APIs, data sources and operational workflows.
