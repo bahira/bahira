@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/bahira?tab=repositories">Projects</a> ·
+  <a href="https://huggingface.co/5dimension"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-5dimension-FFD21E?style=flat-square"></a> ·
   <a href="#03--technical-expertise">Technical expertise</a> ·
   <a href="#05--how-i-can-contribute">Work with me</a>
 </p>
