@@ -4,7 +4,7 @@
 
 Paris, France | Open to consulting, freelance and international remote opportunities
 
-I design and build AI-enabled software, bridging applied research and practical engineering — from technical discovery and prototyping to integration and deployment.
+I design and build AI-enabled software, bridging applied research and practical engineering — from technical discovery and prototyping to integration and deployment. My focus is connecting AI models to real software, data and business workflows, with reproducible evaluation and explicit engineering trade-offs.
 
 ## Technical expertise
 
@@ -16,7 +16,7 @@ I design and build AI-enabled software, bridging applied research and practical 
 | Architecture | Cloud integration, automation, distributed systems |
 | Research | Symbolic regression, numerical computing, WebAssembly, CPU optimization, reproducible benchmarks |
 
-## Selected original projects
+## Selected public projects
 
 | Project | Description |
 | --- | --- |
@@ -26,7 +26,6 @@ I design and build AI-enabled software, bridging applied research and practical 
 | [SpearVM](https://github.com/bahira/SpearVM) | AVX2 mathematical kernels and CPU inference experiments |
 | [Spear-Fable](https://github.com/bahira/spear-fable) | Lightweight agent architecture and compact policy experiments |
 | [BitCompute](https://github.com/bahira/bitcompute) | Peer-to-peer distributed computing experiments |
-
 | [VisualTrader](https://github.com/bahira/visualtrader) | Market data engineering, order-book replay, quantitative research and paper trading (Python / Node.js) |
 
 These projects include research prototypes. See each repository for documentation, benchmarks, limitations and maturity.
