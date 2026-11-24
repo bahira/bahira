@@ -27,9 +27,17 @@ I design and build AI-enabled software, bridging applied research and practical 
 | [Spear-Fable](https://github.com/bahira/spear-fable) | Lightweight agent architecture and compact policy experiments |
 | [BitCompute](https://github.com/bahira/bitcompute) | Peer-to-peer distributed computing experiments |
 
-These projects include research prototypes. See each repository for its documentation, benchmarks, limitations and maturity.
-
 | [VisualTrader](https://github.com/bahira/visualtrader) | Market data engineering, order-book replay, quantitative research and paper trading (Python / Node.js) |
+
+These projects include research prototypes. See each repository for documentation, benchmarks, limitations and maturity.
+
+## Current engineering focus
+
+- Enterprise AI integration: Python, FastMCP, tool interfaces, access control and auditability.
+- Agent evaluation: reproducible multi-agent environments and comparative LLM experiments.
+- Native AI assistants: local inference, voice interfaces and desktop integration.
+
+These are ongoing development areas, not claims of production deployment.
 
 ## Consulting & engineering
 
