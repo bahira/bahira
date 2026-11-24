@@ -29,6 +29,8 @@ I design and build AI-enabled software, bridging applied research and practical 
 
 These projects include research prototypes. See each repository for its documentation, benchmarks, limitations and maturity.
 
+| [VisualTrader](https://github.com/bahira/visualtrader) | Market data engineering, order-book replay, quantitative research and paper trading (Python / Node.js) |
+
 ## Consulting & engineering
 
 - Design Python-based AI applications and MCP integrations.
